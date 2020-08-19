@@ -1,5 +1,7 @@
 Tic Tac Toe game made with React 
 
+You can play it here:  https://patel-tirth.github.io/ReactTicTacToe/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
